@@ -9,5 +9,5 @@ export default async function ProductDetails({
         <h2>
             Detail about Product {id}
         </h2>
-    ) 
+    )                                     
 }
